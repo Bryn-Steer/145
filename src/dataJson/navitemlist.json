@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Home",
+        "link": "/",
+        "key": "home"
+    },
+    {
+        "title": "About",
+        "link": "/about",
+        "key": "about"
+    },
+    {
+        "title": "Menu",
+        "link": "/menu",
+        "key": "menu"
+    },
+    {
+        "title": "Gallery",
+        "link": "/portfolio",
+        "key": "portfolio"
+    },
+    {
+        "title": "Blog",
+        "link": "/blog",
+        "key": "blog"
+    },
+    {
+        "title": "Contact",
+        "link": "/contact",
+        "key": "contact"
+        
+    }
+]

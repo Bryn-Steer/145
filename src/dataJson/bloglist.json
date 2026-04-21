@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "img": "/assets/img/blog/blog_1.jpg",
+    "title": "Best Coffee Spots in Urmston: Why Locals Keep Coming Back",
+    "btntext": "Read More",
+    "time": "12 April 2026"
+  },
+  {
+    "id": 2,
+    "img": "/assets/img/blog/blog_2.jpg",
+    "title": "The Perfect Brunch in Urmston: What Makes It Special?",
+    "btntext": "Read More",
+    "time": "10 April 2026"
+  },
+  {
+    "id": 3,
+    "img": "/assets/img/blog/blog_3.jpg",
+    "title": "From Bean to Cup: How We Craft Coffee Worth Slowing Down For",
+    "btntext": "Read More",
+    "time": "08 April 2026"
+  },
+  {
+    "id": 4,
+    "img": "/assets/img/blog/blog_4.jpg",
+    "title": "Why Independent Cafés Matter in Urmston’s Community",
+    "btntext": "Read More",
+    "time": "05 April 2026"
+  },
+  {
+    "id": 5,
+    "img": "/assets/img/blog/blog_5.jpg",
+    "title": "Morning Rituals: Starting Your Day Right with Great Coffee",
+    "btntext": "Read More",
+    "time": "02 April 2026"
+  },
+  {
+    "id": 6,
+    "img": "/assets/img/blog/blog_6.jpg",
+    "title": "What Makes a Café Feel Like Home? Inside Our Urmston Space",
+    "btntext": "Read More",
+    "time": "30 March 2026"
+  },
+  {
+    "id": 7,
+    "img": "/assets/img/blog/blog_7.jpg",
+    "title": "Top 5 Brunch Dishes You Need to Try in Urmston",
+    "btntext": "Read More",
+    "time": "27 March 2026"
+  },
+  {
+    "id": 8,
+    "img": "/assets/img/blog/blog_8.jpg",
+    "title": "Coffee & Community: Building a Local Hub in Trafford",
+    "btntext": "Read More",
+    "time": "24 March 2026"
+  },
+  {
+    "id": 9,
+    "img": "/assets/img/blog/blog_9.jpg",
+    "title": "A Guide to Specialty Coffee for Beginners",
+    "btntext": "Read More",
+    "time": "20 March 2026"
+  }
+]
